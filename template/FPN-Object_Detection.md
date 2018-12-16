@@ -13,4 +13,4 @@
 - list two
 ## Result
 
-![network]ima/7CQPBNNA29GGIFV2B2J0.png
+
